@@ -1,4 +1,3 @@
-import React from 'react';
 import './Dashboard.css';
 import { mockMetrics, mockChargebacks } from '../../services/mockData';
 import { TrendingUp, TrendingDown, Clock, CheckCircle, XCircle } from 'lucide-react';

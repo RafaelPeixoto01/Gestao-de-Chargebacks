@@ -1,6 +1,5 @@
-import React from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
-import { ArrowLeft, CheckCircle, XCircle, FileText, AlertTriangle } from 'lucide-react';
+import { ArrowLeft, CheckCircle, FileText, AlertTriangle } from 'lucide-react';
 import { mockChargebacks } from '../../services/mockData';
 import './Detail.css';
 
