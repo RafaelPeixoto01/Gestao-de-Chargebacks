@@ -11,6 +11,8 @@
 
 O produto "Gestão de Chargebacks" visa transformar o processo de gestão de chargebacks de um centro de custo reativo, manual e opaco para uma operação automatizada, inteligente e orientada a ROI. O protótipo navegável servirá para validar a usabilidade e o fluxo de valor com os stakeholders antes do desenvolvimento em larga escala, simulando com total veracidade a aplicação final.
 
+**Repositório do Protótipo:** [https://github.com/RafaelPeixoto01/Gestao-de-Chargebacks](https://github.com/RafaelPeixoto01/Gestao-de-Chargebacks)
+
 ---
 
 ## 2. Objetivos e Métricas de Sucesso

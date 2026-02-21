@@ -7,7 +7,7 @@
 - **Nome:** Gestão de Chargebacks
 - **Descrição:** A definir
 - **Stack:** A definir
-- **Repositório:** https://github.com/Rafael/Gestao-de-Chargebacks
+- **Repositório:** [https://github.com/RafaelPeixoto01/Gestao-de-Chargebacks](https://github.com/RafaelPeixoto01/Gestao-de-Chargebacks)
 
 ---
 
