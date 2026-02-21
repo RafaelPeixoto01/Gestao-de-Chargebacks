@@ -1,0 +1,349 @@
+koin.com.br
+Gestión de
+Contra cargos
+Abordagem estratégica
+Gestão inteligente de Chargebacks
+Transformar custo operacional em recuperação 
+de receita
+
+koin.com.br
+Crescimento do volume de chargebacks 
+(2025−2028)
+O volume global continua em trajetória
+ascendente, projetado para atingir 
+324 milhões de disputas até 2028, 
+impulsionado pela expansão do e-commerce.
++24%
+
+koin.com.br
+5−6×
+A América Latina enfrenta os maiores desafios de fraude 
+por transação globalmente. A região possui taxas de 
+chargeback significativamente
+superiores à média global, especialmente no Brasil e 
+México.
+Taxas superiores à média global
+● Volume Projetado 2028: US$ 8,49 bilhões.
+● Impacto na Receita: 20% da receita de 
+e-commerce é perdida ou comprometida por 
+fraude.
+● Perﬁl: A Fraude Amigável representa ~50% 
+dos casos.
+Estimativas baseadas em dados regionais agregados. Taxa média global: 0,60%.
+O custo real de uma disputa
+Fontes
+- LexisNexis Risk Solutions - True Cost of Fraud™ Study – Latin America 2023/2024
+- Visa Acquirer Monitoring Program VAMP Fact Sheet 2025
+- JP Morgan - Visa Dispute Monitoring Program Guide
+- ChargebackStop - Guía VDMP
+- JP Morgan - Mastercard Excessive Chargeback Program Guide
+➢ Custo direto:
+○ Na América Latina, para cada $1 USD perdido em fraude, o 
+custo real para o comércio e de $3.90 a $4.08 USD (LexisNexis 
+2024).
+➢ Ineﬁciência Operacional:
+○ Tempo médio de gestão: 45 minutos por disputa manual 
+(coleta de evidências, redação e upload).
+○ Custo de representação: Disputar um caso perdido (falso positivo) 
+dobra o dano financeiro (custo do processo + taxa do banco).
+➢ Programas de monitoramento (Visa/Mastercard):
+○ Ultrapassar 0.9% de ratio chargeback implica multas (de $50 
+USD/caso até $25k USD).
+○ Entrar em monitoramento impacta uma redução na taxa geral de 
+aprovação entre 5% e 15%..
+Conclusão: Não gerenciar chargebacks de forma eﬁciente não apenas 
+gera perdas reais, como também freia o crescimento da receita.
+
+Benchmark operacional
+Dispute rate
+Em média os merchants 
+disputam cerca de 50% a 
+55% dos chargebacks 
+recebidos.
+- Acima de 80%: Provável 
+esforço excessivo
+- Abaixo de 40%: Com baixa 
+performance
+- 50% a 70%: Dentro da 
+média de mercado
+Win rate
+Alguns estudos divergem 
+quanto a média dessa 
+métrica, mas podemos 
+indicar que:
+- 20% a 30%: Operações 
+pouco estruturadas
+- 30% a 45%: Operações 
+medianas/bem 
+organizadas
+- 45% a 50%: Operações com 
+provider especializado
+Recovery rate $
+A média de mercado indica 
+que entre 1520% dos 
+chargebacks são revertidos 
+ao merchant 
+- 10% a 15%: Valor baixo
+- 15% a 20%: Bom resultado
+- Acima de 20%: Excelente 
+resultado
+Esses são dados gerais, porém sabemos que existem outros fatores que impactam essas métricas como região, 
+tipo de merchant, tipo de chargeback (fraude amigável, fraude real, não fraude), entre outros.
+
+Cenário atual: Fragmentação e Reatividade
+Fragmentação de 
+notificações: Dados 
+espalhados entre 
+diferentes adquirentes 
+e bandeiras
+Baixa Visibilidade: 
+Ausência de aprendizado 
+estruturado e cegueira 
+sobre a performance 
+financeira real
+Trabalho Repetitivo: 
+Criação de evidências 
+repetitivas e pouco 
+contextualizadas.
+Decisão Manual: 
+Processo de decisão 
+sobre disputar ou 
+aceitar é pouco 
+embasado (guessing 
+game).
+Adquirentes
+Bandeiras
+Merchants
+Dados 
+desconectados
+O problema e a solução
+Chargebacks são 
+caros, complexos e 
+mal gerenciados
+O Problema
+Uma plataforma 
+automatizada focada 
+em ROI
+A Solução
+Decisões manuais
+Baixo aproveitamento ﬁnanceiro
+Processos sem transparência
+Centraliza notiﬁcações
+Decide a disputa
+Gera evidências
+Acompanha resultados
+Resumo: O objetivo é fazer com que chargebacks deixem 
+de ser um centro de custo e passem a ser um processo 
+estratégico e previsível.
+
+koin.com.br
+Se o produto não ajuda a 
+decidir melhor, ele vira 
+commodity.“
+Ferramentas de execução são o básico. O 
+verdadeiro valor está na inteligência decisória.
+
+Nossa visão de futuro
+DE PASSADO
+Reativo
+Manual
+Opaco
+PARA FUTURO
+Automatizado
+Inteligente
+Orientado a ROI
+Missão: Transformar a gestão de um processo manual em um 
+sistema capaz de decidir, executar e aprender continuamente
+
+1
+Ingestão 
+automática
+Recebimento centralizado de 
+Chargebacks
+O Fluxo da Plataforma
+ALL RIGHTS RESERVED KOIN ANTI FRAUD
+2
+Classificação e 
+Enriquecimento
+Organização dos dados para 
+análise.
+3
+Motor de      
+Decisão
+A inteligência que define: 
+Disputar ou aceitar?
+4
+Geração e Envio de 
+Evidências 
+Criação automática de dossiês.
+5
+Monitoramento e 
+Aprendizado
+Feedback loop para melhoria 
+contínua.
+
+A Fundação: 
+Controle Operacional
+Centralização
+Um único local para todos os chargebacks.  
+Dashboards
+Visualização clara por status e valor financeiro.
+Gestão de Evidências 
+Criação e envio manual ou semi-automático.
+Valor Entregue
+Redução de esforço operacional e visibilidade 
+centralizada. 
+O foco do MVP é execução e visibilidade
+
+O Diferencial: 
+Motor de Decisão
+Score de vitória
+Probabilidade calculada de ganhar a disputa.
+Recomendação automática
+O sistema sugere a melhor ação baseada em 
+dados.
+UX Orientada a ROI
+Interface desenhada para priorizar o retorno 
+financeiro, não apenas tarefas.
+Saindo da execução para a inteligência
+
+Automação inteligente 
+e Aprendizado com IA
+Evidências inteligentes
+Geração de documentos adaptados por 
+motivo do chargeback e regras da bandeira
+Closed Loop com Antifraude
+O resultado das disputadas retroalimenta o 
+sistema de prevenção
+Evolução
+O sistema aprende o que funciona para 
+aumentar a taxa de recuperação
+
+Win                   
+rate
+85%
+Taxa de sucesso nas 
+disputas
+Métricas de sucesso
+Valor 
+recuperado
+R$ 1.2M
+Impacto direto no 
+caixa
+Custo por 
+Disputa
+R$ 45
+Eficiência 
+operacional
+Tempo de 
+resolução
+3.5 dias
+Agilidade no 
+processo
+Redução de 
+chargebacks
+20%
+Prevenção via 
+aprendizado
+01
+Menos esforço  
+operacional
+Automação do trabalho braçal e 
+repetitivo.
+ALL RIGHTS RESERVED KOIN ANTI FRAUD
+02
+Decisões melhores              e 
+rápidas
+Inteligência de dados para 
+escolher as batalhas certas.
+03
+Visibilidade          
+Financeira total
+Clareza sobre o dinheiro 
+recuperado e perdido.
+Proposta de valor consolidada
+O que esperamos gerar de valor 
+para a Koin com esse produto?
+ 
+Maior vínculo e retenção de clientes
+A gestão de chargebacks é um processo crítico e recorrente; ao 
+assumir essa responsabilidade, a Koin se torna parceira estratégica 
+do cliente, aumentando stickiness e reduzindo churn.
+O impacto para a 
+Koin Novo argumento de vendas e diferenciação 
+competitiva
+O produto amplia o posicionamento da Koin de prevenção de fraude 
+para gestão ativa de perdas financeiras, fortalecendo o discurso 
+comercial e aumentando a competitividade em vendas enterprise.
+Nova fonte de receita recorrente e escalável
+Possibilita monetização via fee por disputa, revenue share sobre 
+valores recuperados e bundles com antifraude, elevando ARPU e 
+diversificando as receitas da Koin.
+O caminho a frente
+Hoje
+MVP
+● Foco em execução
+● Centralização
+● Redução de esforço
+Futuro
+Diferenciação)
+● Autonomia total
+● Predição de cenários
+● ROI maximizado
+
+O cliente Beta será o 
+nosso backoffice
+Operação real já existe
+Times da Koin atuam hoje na análise e disputa 
+de chargebacks para clientes com 
+Chargeback Guarantee, cobrindo todo o ciclo 
+operacional.
+Aprendizado direto das dores reais
+Essa atuação fornece visão prática dos 
+gargalos, exceções e oportunidades de 
+automação do fluxo.
+Produto validado antes de escalar
+A operação interna será nosso laboratório 
+contínuo, garantindo que melhorias sejam 
+testadas, validadas e refinadas antes de 
+escalar para os clientes.
+
+Done!
+Criação das bases
+- Criar uma aplicação para 
+centralizar dados e modelar o ciclo 
+de vida do chargeback.
+- Importação de todo histórico de 
+chargebacks para a nova estrutura
+Q1/26
+Primeiros passos no 
+backoffice e 
+notiﬁcações
+- Funcionalidades necessárias para 
+chargebacks de clientes com 
+chargeback guarantee no back 
+office.
+- Validação do serviço de 
+notificações de chargeback da 
+Verify(Visa)
+- Mapeamento das possibilidades 
+de integração com adquirentes para 
+recebimento de notificações.
+Q2/26
+MVP para clientes
+- Criação e lançamento do novo 
+módulo de gestão de chargebacks 
+para clientes em geral.
+- Integração com adquirentes 
+mapeadas
+H2/26
+Agregar inteligência
+- Integração com adquirentes 
+mapeadas Cont.
+- Construção da análise inteligente 
+de chargeback para determinar a 
+disputa.
+- Criação automática do dossiê de 
+evidências para disputa de 
+chargebacks. 
+O Nosso Plano

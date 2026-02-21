@@ -1,0 +1,105 @@
+.koin-header {
+    background-color: var(--color-primary);
+    width: 100%;
+}
+
+.header-container {
+    max-width: var(--max-content-width);
+    margin: 0 auto;
+    padding: 0 24px;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-brand {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.logo-placeholder {
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: -1px;
+}
+
+.app-badge {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background-color: #383B3C;
+    color: #D1D5DB;
+    font-size: 12px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-weight: 500;
+}
+
+.header-nav {
+    display: flex;
+    height: 100%;
+    margin-left: 32px;
+    flex: 1;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #9CA3AF;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0 16px;
+    cursor: pointer;
+    height: 100%;
+    transition: color 0.2s;
+}
+
+.nav-item:hover {
+    color: white;
+}
+
+.nav-item.active {
+    color: white;
+    border-bottom: 2px solid white;
+}
+
+.header-actions {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.action-tag {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    color: white;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.black-tag {
+    background-color: black;
+    padding: 6px 12px;
+    border-radius: 4px;
+    border: 1px solid #383B3C;
+}
+
+.user-avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: white;
+    color: var(--color-primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 14px;
+    margin-left: 8px;
+}
